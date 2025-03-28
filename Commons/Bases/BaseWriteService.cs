@@ -1,4 +1,5 @@
 ﻿using System;
+using AutoMapper;
 using TestETL.Commons.Models;
 using TestETL.Contracts.Bases;
 

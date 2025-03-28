@@ -1,4 +1,6 @@
 ﻿using System;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
 using TestETL.Commons.Bases.TestMovieWebApp.Server.Commons.BaseServices;
 using TestETL.Commons.Models;
 using TestETL.Contracts.Bases;
