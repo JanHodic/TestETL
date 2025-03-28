@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{61887B0D-C948-492A-90F4-DAB165D18881}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Contracts/Features/IFileReader.cs">
+    <Files>
+      <File FileName="Models/Item.cs" Line="31" Column="18" />
+      <File FileName="Commons/Bases/BaseRepository.cs" Line="62" Column="2" />
+      <File FileName="Commons/Bases/BaseService.cs" Line="22" Column="10" />
+      <File FileName="Contracts/Bases/IBaseService.cs" Line="15" Column="23" />
+      <File FileName="Contracts/Bases/IBaseRepository.cs" Line="11" Column="6" />
+      <File FileName="Commons/Models/UserDateIdentity.cs" Line="11" Column="3" />
+      <File FileName="Contracts/Bases/IBaseWriteService.cs" Line="17" Column="22" />
+      <File FileName="Contracts/Bases/IBaseWriteRepository.cs" Line="37" Column="1" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.317/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.Shared.targets" Line="196" Column="59" />
+      <File FileName="Commons/Models/BaseIdentity.cs" Line="1" Column="1" />
+      <File FileName="Commons/Bases/BaseWriteRepository.cs" Line="29" Column="14" />
+      <File FileName="Commons/Bases/BaseWriteService.cs" Line="26" Column="63" />
+      <File FileName="Data/Contexts/TestETLDbContext.cs" Line="15" Column="49" />
+      <File FileName="Contracts/Features/IFileReader.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestETL">
+            <Node name="TestETL">
+              <Node name="Commons">
+                <Node name="Bases" expanded="True" />
+              </Node>
+              <Node name="Contracts" expanded="True">
+                <Node name="Bases" expanded="True" />
+                <Node name="Features">
+                  <Node name="IFileReader.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestETL PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
